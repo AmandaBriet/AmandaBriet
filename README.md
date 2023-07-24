@@ -1,7 +1,8 @@
- 👋 Hi! I’m Amanda Briet
+ 👋 Olá! Eu sou a Amanda Briet
  
-- 🌱  I’m interested in começar a trabalhar na area da programação
-- 📫I’m currently learning a desenvolver jogos
+- 🌱  Estou interessado em começar a trabalhar na área da programação
+- 📫   Atualmente estou aprendendo a desenvolver jogos
+
 
 ##
 
