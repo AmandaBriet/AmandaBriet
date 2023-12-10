@@ -1,6 +1,6 @@
  👋 Olá! Eu sou a Amanda Briet
  
-- 🌱  Estou interessado em começar a trabalhar na área da programação
+- 🌱  Estou sempre aprendendo novas linguagens de programção
 - 📫   Atualmente estou aprendendo a desenvolver jogos
 
 
